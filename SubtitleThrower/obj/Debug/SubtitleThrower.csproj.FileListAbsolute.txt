@@ -1,0 +1,12 @@
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\bin\Debug\SubtitleThrower.exe.config
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\bin\Debug\SubtitleThrower.exe
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\bin\Debug\SubtitleThrower.pdb
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.csprojResolveAssemblyReference.cache
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.Form1.resources
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.Properties.Resources.resources
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.csproj.GenerateResource.Cache
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.exe
+F:\VisualStudio\Projects\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.pdb
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\SubtitleThrower\SubtitleThrower\bin\Debug\SubtitleThrower.exe.config
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.exe
+\\spgnyfile02\SPGSHARE\Users\TLaw\Visual Studio 2015\Projects\Test\SubtitleThrower\SubtitleThrower\obj\Debug\SubtitleThrower.pdb
